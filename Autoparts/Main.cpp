@@ -4,6 +4,7 @@
 #include <iostream>
 #include "Autopart.h"
 #include "EnginePart.h"
+#include "BasePart.h"
 
 int main()
 {
